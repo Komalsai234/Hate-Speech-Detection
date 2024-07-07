@@ -51,7 +51,7 @@ jobs:
 
   continuous-deployment:
     machine: true
-    resource_class: bappy/nerbert
+    resource_class: komalsai234/hate-speech
     environment:
       REPOSITORY: hate-speech-detection
       GAR_IMAGE_NAME: hate-speech-detection
