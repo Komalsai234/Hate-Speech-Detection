@@ -80,7 +80,6 @@ jobs:
           command: docker system prune -f
 
       
-
 workflows:
   CICD:
     jobs:
