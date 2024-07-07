@@ -13,4 +13,5 @@ RUN apt-get install apt-transport-https ca-certificates gnupg -y && apt install 
 
 RUN pip3 install torch --extra-index-url https://download.pytorch.org/whl/cpu && pip3 install -r requirements.txt
 
+
 CMD ["python3", "app.py"]
