@@ -70,4 +70,5 @@ Install the gCloud CLI and then run below command in terminal then enter the req
     Open your web browser and go to the local Fast API URL (usually `http://localhost:8080`)
 
 
-* [Guide for Integrating CircleCI with GCP Virtual Machine](https://github.com/Komalsai234/Hate-Speech-Detection/blob/main/guide/Intergrate%20CircleCi%20with%20GCP%20VM.md)
+
+[Guide for Integrating CircleCI with GCP Virtual Machine](https://github.com/Komalsai234/Hate-Speech-Detection/blob/main/guide/Intergrate%20CircleCi%20with%20GCP%20VM.md)
