@@ -21,11 +21,11 @@ Dataset using Twitter data, isused to research hate-speech detection. The text i
 - Python 3.9 or higher
 - Fast API
 - Docker
-- Jenkins
+- Circle CI
 - Google Cloud SDK
 - Google Cloud Platform(GCP) Account
 
-## Project Workflow
+## Project CI/CD Workflow
 ![Project Workflow](workflow/main.png)
 
 ### Installation
