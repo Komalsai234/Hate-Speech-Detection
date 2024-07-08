@@ -18,7 +18,7 @@
 ```
 Replace `YOUR_USERNAME` with your VM's username.
 
-### ### Step 3: Install Google Cloud SDK
+### Step 3: Install Google Cloud SDK
  ```bash
     curl -O https://dl.google.com/dl/cloudsdk/channels/rapid/downloads/google-cloud-cli-409.0.0-linux-x86_64.tar.gz
     tar -xf google-cloud-cli-409.0.0-linux-x86_64.tar.gz
